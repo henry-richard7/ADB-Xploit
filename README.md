@@ -16,4 +16,10 @@ you can find open ports here https://www.shodan.io/search?query=android+debug+br
 ![Screenshot (2)](https://user-images.githubusercontent.com/68910039/92269525-31bb8000-ee99-11ea-88ff-2762813d2a86.png)
 
 # Copyrights © [Henry Richard J](https://github.com/henry-richard7)
+
+### Donations (Optional) 💵
+If you like my projects then consider making a small donation by clicking below button ^_^
+<br/>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
+
 #### Star the Repo in case you liked it :)
