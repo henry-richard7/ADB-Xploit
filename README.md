@@ -15,6 +15,14 @@ you can find open ports here https://www.shodan.io/search?query=android+debug+br
 # Screenshot
 ![Screenshot (2)](https://user-images.githubusercontent.com/68910039/92269525-31bb8000-ee99-11ea-88ff-2762813d2a86.png)
 
+# My Youtube Channel
+[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+# My Telegram Channel
+[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
+
 # Copyrights © [Henry Richard J](https://github.com/henry-richard7)
 
 ### Donations (Optional) 💵
